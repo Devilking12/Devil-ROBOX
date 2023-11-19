@@ -87,11 +87,11 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="💛", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🧡", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💚", callback_data="source_"),
-        InlineKeyboardButton(text="🖤", user_id="1777270311"),
-        InlineKeyboardButton(text="💙", callback_data="Main_help"),
+        InlineKeyboardButton(text="🐣", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🤗", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🤫", callback_data="source_"),
+        InlineKeyboardButton(text="🥵", user_id="6743351101"),
+        InlineKeyboardButton(text="🤓", callback_data="Main_help"),
      ],
     [
         InlineKeyboardButton(
@@ -118,7 +118,7 @@ HELP_STRINGS = f"""
 DONATE_STRING = f"""ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
 
-ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ [『♕︎𓆩𝗥𝗗𝗫𓆪𝗥⟁𝗝™♕︎』](https://t.me/rajdausaardxop) ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ ➻ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/+xWcg-WBN1oBjMjk1) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
+ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ [『Devil XD』](https://t.me/Assaulted_dark) ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ ➻ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/devilking_help) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -386,15 +386,15 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="💛", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🧡", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💚", callback_data="source_"),
-        InlineKeyboardButton(text="🖤", user_id="1777270311"),
-        InlineKeyboardButton(text="💙", callback_data="Main_help"),
+        InlineKeyboardButton(text="🐣", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🤗", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🤫", callback_data="source_"),
+        InlineKeyboardButton(text="🥵", user_id="6743351101"),
+        InlineKeyboardButton(text="🤓", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/+xWcg-WBN1oBjMjk1"
+                            text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/devilking_help"
                         ),
                         InlineKeyboardButton(
                             text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="Main_help"
@@ -422,26 +422,26 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="💛", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🧡", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💚", callback_data="source_"),
-        InlineKeyboardButton(text="🖤", user_id="1777270311"),
-        InlineKeyboardButton(text="💙", callback_data="Main_help"),
+        InlineKeyboardButton(text="🐣", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🤗", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🤫", callback_data="source_"),
+        InlineKeyboardButton(text="🥵", user_id="6743351101"),
+        InlineKeyboardButton(text="🤓", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/+xWcg-WBN1oBjMjk1"
+                            text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/+n-FgsomCT9Q0NTk1"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url="https://t.me/+GEooO-YpKXlhNjA1"
+                            text="ᴜᴩᴅᴀᴛᴇs", url="https://t.me/english_hindi_friends_chatting"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", user_id="1777270311"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", user_id="6743351101"
                         ),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ", url="http://github.com/NOBITA-RDX"
+                            text="Devil XD", url="https://telegra.ph/file/e0773f5b9ac5f43dc8815.mp4 "
                         ),
                     ],
                     [
@@ -594,14 +594,14 @@ Yᴏᴜ ᴄᴀɴ ʜᴇʟᴘ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ 
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [ [
-        InlineKeyboardButton(text="💛", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🧡", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💚", callback_data="source_"),
-        InlineKeyboardButton(text="🖤", user_id="1777270311"),
-        InlineKeyboardButton(text="💙", callback_data="Main_help"),
+        InlineKeyboardButton(text="🐣", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🤗", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🤫", callback_data="source_"),
+        InlineKeyboardButton(text="🥵", user_id="6743351101"),
+        InlineKeyboardButton(text="🤓", callback_data="Main_help"),
      ],
                     [
-                        InlineKeyboardButton(text="• ᴅᴏɴᴀᴛᴇ •", url="https://t.me/+FTpq6AVRnqMwZDRl"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/+xWcg-WBN1oBjMjk1")
+                        InlineKeyboardButton(text="• ᴅᴏɴᴀᴛᴇ •", url="https://t.me/+n-FgsomCT9Q0NTk1"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/+xWcg-WBN1oBjMjk1")
                     ]
                 ]
             ),
@@ -621,24 +621,24 @@ def Source_about_callback(update: Update, context: CallbackContext):
 ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](https://www.sqlalchemy.org) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](http://github.com/NOBITA-RDX)
+*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://telegra.ph/file/e6819eed3f4a182e99387.mp4)
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/NOBITA-RDX/RDX-ROBOT/blob/main/LICENSE).
-© 2023 - 2024 | [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/+xWcg-WBN1oBjMjk1), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/Devilking12/Kafila-ROBOT/blob/main/LICENSE).
+© 2023 - 2024 | [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/+n-FgsomCT9Q0NTk1), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-        InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="http://github.com/NOBITA-RDX/RDX-ROBOT")
+        InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url="http://github.com/Devilking12/Kafila-ROBOT")
                 ],
                  [
-        InlineKeyboardButton(text="💛", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🧡", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💚", callback_data="source_"),
-        InlineKeyboardButton(text="🖤", user_id="1777270311"),
-        InlineKeyboardButton(text="💙", callback_data="Main_help")]]
+        InlineKeyboardButton(text="🐣", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🤗", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🤫", callback_data="source_"),
+        InlineKeyboardButton(text="🥵", user_id="6743351101"),
+        InlineKeyboardButton(text="🤓", callback_data="Main_help")]]
             ),
         )
     elif query.data == "source_back":
@@ -663,11 +663,11 @@ def Music_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="💛", callback_data="mukesh_back"),
-        InlineKeyboardButton(text="🧡", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💚", callback_data="source_"),
-        InlineKeyboardButton(text="🖤", user_id="1777270311"),
-        InlineKeyboardButton(text="💙", callback_data="Main_help"),
+        InlineKeyboardButton(text="🐣", callback_data="mukesh_back"),
+        InlineKeyboardButton(text="🤗", callback_data="mukesh_"),
+        InlineKeyboardButton(text="🤫", callback_data="source_"),
+        InlineKeyboardButton(text="🥵", user_id="6743351101"),
+        InlineKeyboardButton(text="🤓", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
@@ -1089,7 +1089,7 @@ def main():
                 caption=f"""
 ✨ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.
 ━━━━━━━━━━━━━
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ Ꮢᴅx**
+**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ Devil**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ:** `{telever}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{tlhver}`
