@@ -1,6 +1,6 @@
 <h1 align="center">𝐌𝐢𝐜𝐇𝐚𝐍 ✘ 𝐌𝐚𝐧𝐚𝐆𝐞𝐦𝐞𝐧𝐓 ™</h1>
 <p align="center">
-  <img src="https://github.com/Noob-Mukesh/MukeshRobot/blob/main/MukeshRobot/resources/mukesh.jpg">
+  <img src="https://telegra.ph/file/57af88b9571bd45ef6b11.jpg">
 </p>
 <p align="center">
 <a href="https://github.com/Devilking12/Devil-ROBOX/stargazers"><img src="https://img.shields.io/github/stars/Devilking12/Devil-ROBOX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -76,7 +76,7 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://telegra.ph/file/57af88b9571bd45ef6b11.jpg">
+  <img src="https://telegra.ph/file/b8eda5d18beadd27ce4b3.jpg">
 </p>
 
 </details>
