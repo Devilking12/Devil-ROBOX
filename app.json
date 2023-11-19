@@ -1,14 +1,14 @@
 {
-    "name": "ʀᴅx-ʀᴏʙᴏᴛ",
+    "name": "𝐌𝐢𝐜𝐇𝐚𝐍 ✘ 𝐌𝐚𝐧𝐚𝐆𝐞𝐦𝐞𝐧𝐓 ™",
     "description": "Telegram Group Management Bot.",
-    "logo": "https://graph.org/file/c4346aa958149527df3fc.jpg",
+    "logo": "https://telegra.ph/file/e8d75c008360c8a5d7525.jpg ",
     "keywords": [
        "telegram",
        "modular",
        "group",
        "manager"
     ],   
- "repository": "https://github.com/NOBITA-RDX/RDX-ROBOX",
+ "repository": "https://github.com/Devilking12/Devil-ROBOX",
  "stack": "heroku-22",
  "addons": [
     {
